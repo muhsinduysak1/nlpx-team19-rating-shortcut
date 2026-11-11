@@ -1,0 +1,9 @@
+data/
+__pycache__/
+*.pyc
+.venv/
+models/*.safetensors
+models/*/model.safetensors
+models/*/vocab.txt
+.DS_Store
+pilot_mac.log

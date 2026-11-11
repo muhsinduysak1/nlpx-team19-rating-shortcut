@@ -1,0 +1,19 @@
+[    0.5s] loaded train=25000 test=25000 from huggingface.co/datasets/stanfordnlp/imdb (plain_text, parquet)
+[   63.6s] regex done
+[   99.5s] seed 0: train=22500 dev=2500; scrub changed 2859 train texts
+[  128.0s] seed 0 word A: dev=0.9084 test_rf=0.9042 rated=0.9308 feats=398742 (26.2s)
+[  128.0s] seed 0 word B: dev=0.9020 test_rf=0.9053 rated=0.9120 feats=398315 (26.9s)
+[  270.5s] seed 0 char A: dev=0.8996 test_rf=0.8857 rated=0.9070 feats=266713 (141.1s)
+[  270.5s] seed 0 char B: dev=0.8976 test_rf=0.8861 rated=0.8882 feats=266313 (141.9s)
+[  299.7s] seed 1: train=22500 dev=2500; scrub changed 2875 train texts
+[  323.3s] seed 1 word A: dev=0.9096 test_rf=0.9038 rated=0.9311 feats=400019 (22.5s)
+[  323.3s] seed 1 word B: dev=0.9036 test_rf=0.9044 rated=0.9079 feats=399574 (23.0s)
+[  433.7s] seed 1 char A: dev=0.8932 test_rf=0.8859 rated=0.9070 feats=267001 (110.2s)
+[  433.7s] seed 1 char B: dev=0.8924 test_rf=0.8858 rated=0.8847 feats=266616 (108.9s)
+[  460.6s] seed 2: train=22500 dev=2500; scrub changed 2870 train texts
+[  483.6s] seed 2 word A: dev=0.9108 test_rf=0.9034 rated=0.9330 feats=399657 (22.6s)
+[  483.6s] seed 2 word B: dev=0.9076 test_rf=0.9051 rated=0.9123 feats=399217 (22.5s)
+[  590.4s] seed 2 char A: dev=0.9128 test_rf=0.8854 rated=0.9076 feats=267292 (106.7s)
+[  590.4s] seed 2 char B: dev=0.9124 test_rf=0.8849 rated=0.8857 feats=266880 (103.9s)
+[error_analysis] wrote /home/claude/team19/results/error_analysis.md
+[  601.4s] done; wrote /home/claude/team19/results

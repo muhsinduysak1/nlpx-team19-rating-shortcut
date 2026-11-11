@@ -1,0 +1,12 @@
+{
+ "mixed": "Mixed review: praise and criticism of parts, overall verdict lost",
+ "plot": "Plot/content description dominates (sentiment words describe the story)",
+ "nonfilm": "Sentiment aimed at a non-film target (real person, TV channel, other reviewer, extra)",
+ "comparison": "Comparison to other films/episodes",
+ "contrast": "Contrast turn: long praise, then negative verdict ('Well, bad.', 'However')",
+ "sobad": "'So bad it's good': negative words used as praise",
+ "hedged": "Hedged / understated sentiment, few polar words",
+ "contradicts": "Text contradicts gold label (likely borderline rating or label noise)",
+ "sarcasm": "Sarcasm / ironic humour",
+ "negation": "Negation ('a good horror flick this is not')"
+}

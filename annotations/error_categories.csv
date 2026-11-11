@@ -1,0 +1,41 @@
+n,id,category,note,secondary,example,quote
+1,test_00079,plot,long plot/cast description; only verdict is a mild parenthetical at the end,,,
+2,test_00397,comparison,"recommends other films (Afrika, 'classic' Stir Crazy); 'critics love this movie'",,,
+3,test_00527,contradicts,"text defends the film ('period charm', 'played quite well'); gold neg - likely borderline rating",,,
+4,test_00769,comparison,"plot retold, then 'done before in Ferris Bueller', 'I like Immature better in House Party 3'",,1,This same exact plot from this movie has been done before. It has been done in Ferris Bueller's Day Off! [...] I like Immature better when they were in House Party 3
+5,test_00936,mixed,"counterfactual 'would have been excellent'; praises songs and concert footage, blames editing",,,
+6,test_01705,hedged,"polite, hedged criticism ('very dry', 'not complete'); no strong negative words",,1,"I felt that the movie Skammen, directed by Ingmar Bergman, was very dry. [...] I feel that it was not complete or attention holding."
+7,test_01887,plot,plot and cast history dominate; 'wasted resources' is the only verdict,leak: '***' star rating before the title line not matched,,
+8,test_02194,comparison,discursive comparison with Thunderball and other Bond films,,,
+9,test_04171,negation,"'as a good horror flick this is not'; 'my favorite movie company', 'interesting'",,1,Unspeakable tries to be sick and disturbing and it does manage to do that as a good horror flick this is not.
+10,test_04246,sarcasm,"ironic 'Great', 'PROFOUND', 'COMICALLY bereft of profundity'",,1,Great [-] you've just imagined the entirety of the film `India Song.' [...] scream out `Look at me! I am PROFOUND!!'
+11,test_06632,mixed,"'two shining moments' praised at length ('incredible', 'spectacular', 'great')",,,
+12,test_06890,nonfilm,"praise is for the real Diane Arbus ('brilliant, talented'), not the film",,,
+13,test_07394,sarcasm,humorous understatement ('I tried to love this movie ... it was fourteen'),,,
+14,test_07481,hedged,hedged ('maybe it's unfair to dislike'); negativity aimed at depicted bigots,,,
+15,test_09490,plot,"long plot summary; praise for scenery ('awesome', 'glorious')",,,
+16,test_10340,contrast,"long praise of soundtrack, cast and first film, then 'Well, bad.'",,1,"And the original Demons is an absolute must-see for fans of eighties B-horror films. So how bad can this be, right? Well, bad."
+17,test_11869,contrast,"'decent documentary ... great depiction ... that said, glaring flaws'",,,
+18,test_12258,mixed,"'could have been a wonderful movie'; 'loved the first part', 'excellent', 'perfect'",,1,"This could have been a wonderful movie, but they all blew it up. [...] I loved the first part [...] (especially the scene with the liquor shooting was excellent)"
+19,test_12422,contrast,"praises the two leads, score and visuals, then 'However ... film fails to deliver'",,,
+20,test_13341,mixed,"positive verdict, but 'real turkeys' (other films), 'pretty terrible' editing",,,
+21,test_13374,mixed,"praise of gags, then 'the only drawback is the plot'",,,
+22,test_13672,sobad,"'special effects laughable, acting ridiculous ... that's a good thing'",leak: 'I give it ten stars' not matched (verb_word_stars allows only zero-five),,
+23,test_13790,plot,"plot summary with horror vocabulary ('disembowel', 'nasty')",,,
+24,test_14872,hedged,lukewarm 'not the greatest movie ever made but ... something to think about renting',,,
+25,test_15547,contradicts,"text is negative about the film ('needs to pay you to see', 'save your money'); positive only about the actress",,,
+26,test_15550,contradicts,"plot summary + 'very predictable ending', actress too old; no praise at all; gold pos",,1,"Very predictable ending. The actress that plays ""Amy"" is actually 33 years old trying to play a teenager!"
+27,test_15942,nonfilm,"production history, actress's career, Reagan/Clinton digression",,,
+28,test_16580,mixed,"'everything else about it was so-so', 'annoying'; positive only because of one player",,,
+29,test_17977,mixed,'completely in love' but most of the text is about a disturbing plot twist ('bad taste'),,,
+30,test_18135,sobad,"'puerile, adolescent, inoffensive, idiotic.. And utterly hilarious'",,,
+31,test_19028,mixed,"praises acting and locations but 'utterly bleak', 'disappointed', 'too drained'",,,
+32,test_19961,plot,"black comedy: negative words describe the hospital and the character ('waste', 'cynic')",,,
+33,test_20103,sobad,'Stupidly beautiful ... so bad it's good'; 'ugly pile of celluloid',,1,Stupidly beautiful. This movie epitomizes the 'so bad it's good' genre of films.
+34,test_20907,comparison,other Twilight Zone time-travel episodes 'more to my liking'; one flaw discussed,,,
+35,test_21020,mixed,"praises direction, photography and score, but 'particularly weak script all but does the movie in'",,,
+36,test_21169,nonfilm,mostly about an uncredited extra ('WHO IS THIS GIRL???'),,,
+37,test_21365,nonfilm,"rebuts another commenter ('viciously hidden remarks', 'prejudice')",,,
+38,test_22397,plot,"long plot summary full of violent vocabulary (killer, mutilates, stabs)",,1,"The unknown assailant ties Betty to a column, gags her, and places needles under her eyes that will cause incredible damage and pain should Betty close them."
+39,test_23086,nonfilm,complains about a TV channel not airing the show,,,
+40,test_24124,nonfilm,"tribute to Bill Hicks's death ('dies of cancer', 'punched me in the stomach')",,1,"""Bill Hicks dies of cancer"" said the headline in the NME. I felt like someone had punched me in the stomach. Buy this DVD."
